@@ -1,0 +1,33 @@
+.Portrait{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    background-color: white;
+    margin: auto;
+    margin-top: 150px;
+    padding: 10px;
+}
+.Portrait img{
+    height: 100%;
+    width: 100%;
+}
+.Description{
+    box-shadow: 5px 5px 10px black;
+    width: 1500px;
+    height: 500px;
+    border: 3px solid black;
+    background-color: white;
+    padding: 24px;
+    margin: auto;
+}
+.Description h1{
+    text-align: center;
+    font-size: 62px;
+}
+.Description p{
+    text-align: center;
+    justify-content: center;
+    font-size: 32px;
+}
