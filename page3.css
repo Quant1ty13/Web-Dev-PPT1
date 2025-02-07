@@ -1,0 +1,97 @@
+*{
+    text-align: center;
+}
+.title{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    width: 150px;
+    height: 300px;
+    overflow: hidden;
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px;
+    height: 100%;
+    width: 16%;
+}
+.Row1{
+    display: inline-flex;
+}
+#One{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    margin-right: 50px;
+    height: 100%;
+    width: 55%;
+}
+#Two{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    margin-left: 50px;
+    height: 100%;
+    width: 55%;
+}
+.Row2{
+    display: inline-flex;
+}
+#Three{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    margin-right: 50px;
+    height: 100%;
+    width: 100%;
+}
+#Four{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    margin-left: 50px;
+    height: 100%;
+    width: 100%;
+}
+.Row3{
+    display: inline-flex;
+}
+#Five{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    margin-right: 50px;
+    height: 100%;
+    width: 100%;
+}
+#Six{
+    box-shadow: 5px 5px 10px black;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    margin-left: 50px;
+    height: 100%;
+    width: 100%;
+}
