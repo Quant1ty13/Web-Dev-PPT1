@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\Loading.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Loading.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\Loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Loading.js",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\Loading.js",
+              "RelativeDocumentMoniker": "Loading.js",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\Loading.js",
+              "RelativeToolTip": "Loading.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T17:12:44.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loading.css",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\Loading.css",
+              "RelativeDocumentMoniker": "Loading.css",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\Loading.css",
+              "RelativeToolTip": "Loading.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T17:11:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page4.html",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.html",
+              "RelativeDocumentMoniker": "page4.html",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.html",
+              "RelativeToolTip": "page4.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-24T17:10:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page3.html",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.html",
+              "RelativeDocumentMoniker": "page3.html",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.html",
+              "RelativeToolTip": "page3.html",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-24T17:10:00.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "page2.html",
               "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.html",
               "RelativeDocumentMoniker": "page2.html",
               "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.html",
               "RelativeToolTip": "page2.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-07T11:31:05.448Z",
+              "WhenOpened": "2025-02-24T17:09:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\home.html",
+              "RelativeDocumentMoniker": "home.html",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\home.html",
+              "RelativeToolTip": "home.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T13:50:51.707Z",
               "EditorCaption": ""
             }
           ]

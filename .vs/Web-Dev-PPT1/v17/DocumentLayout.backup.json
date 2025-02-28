@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page3.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:page3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page4.css",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.css",
+              "RelativeDocumentMoniker": "page4.css",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.css",
+              "RelativeToolTip": "page4.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-07T13:53:36.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "page4.html",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.html",
+              "RelativeDocumentMoniker": "page4.html",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page4.html",
+              "RelativeToolTip": "page4.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T13:51:30.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "page3.css",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.css",
+              "RelativeDocumentMoniker": "page3.css",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.css",
+              "RelativeToolTip": "page3.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-07T13:51:34.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\home.html",
+              "RelativeDocumentMoniker": "home.html",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\home.html",
+              "RelativeToolTip": "home.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T13:50:51.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page3.html",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.html",
+              "RelativeDocumentMoniker": "page3.html",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page3.html",
+              "RelativeToolTip": "page3.html",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T13:50:11.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "page2.css",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.css",
+              "RelativeDocumentMoniker": "page2.css",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.css",
+              "RelativeToolTip": "page2.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-07T13:48:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page2.html",
+              "DocumentMoniker": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.html",
+              "RelativeDocumentMoniker": "page2.html",
+              "ToolTip": "C:\\Users\\Warleyne Casanova\\Documents\\Web Development\\PPT1\\Web-Dev-PPT1\\page2.html",
+              "RelativeToolTip": "page2.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-07T11:31:05.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
